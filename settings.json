@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "TheVRJani",
     "password": "",
     "type": "online"
   },
@@ -74,14 +74,14 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1536430203516092507/8UtCdy4twrJaV81zXRIB1TlN9bze7QV6DnNMqx7qbVtAV3tv5DxBN0PrEO8c4Jd_1-CT",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
